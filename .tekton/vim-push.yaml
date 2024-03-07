@@ -244,7 +244,7 @@ spec:
             - name: name
               value: source-build
             - name: bundle
-              value: quay.io/skabashn/task-source-build:0.1@sha256:7eccc02668035ae38de2c79c49a1de07adc60b51ab9945e0fb3be0507ffc237a
+              value: quay.io/skabashn/task-source-build:0.1@sha256:041e387c4917c67724cbb91e23ada1a0b0ed0c79ea46087a39cacd223f9dc109
             - name: kind
               value: task
           resolver: bundles
