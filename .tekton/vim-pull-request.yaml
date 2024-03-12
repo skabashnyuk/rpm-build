@@ -191,7 +191,7 @@ spec:
         - name: name
           value: prefetch-dependencies
         - name: bundle
-          value: quay.io/skabashn/task-prefetch-dependencies@sha256:2e08156c8268ec88d156271127cae7ff4780f30416fcb567d7e61cb87961254e
+          value: quay.io/skabashn/task-prefetch-dependencies@sha256:1674cba3313647b467817dab5b482e8a7cc3c417bffcd5712adff095ac57c33a
         - name: kind
           value: task
         resolver: bundles
